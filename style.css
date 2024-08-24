@@ -41,5 +41,9 @@
 .card{
     border: none;
     border-radius: 30px;
-    box-shadow: 5px 5px 10px lightblue;
+    box-shadow: 5px 5px 10px lightgray;
+}
+.card:hover{
+    box-shadow: 5px 5px 10px lightskyblue;
+    border: 1px dotted lightgray;
 }
