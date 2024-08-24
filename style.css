@@ -38,3 +38,8 @@
 .categories img{
     width: 130px;
 }
+.card{
+    border: none;
+    border-radius: 30px;
+    box-shadow: 5px 5px 10px lightblue;
+}
