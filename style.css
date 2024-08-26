@@ -48,3 +48,7 @@
     transform: scale(103%);
     box-shadow: 5px 5px 10px lightskyblue;
 }
+.card-footer button{
+    margin-top: 5px;
+    margin-bottom: 5px;
+}
