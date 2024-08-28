@@ -22,7 +22,7 @@
 .cat1, .cat2 , .cat3{
     padding: 10px 30px;
     border-radius: 10px;
-    margin-bottom: 5px;
+    margin-bottom: 10px;
 }
 .cat1{
     background-image: linear-gradient( rgb(234, 181, 82), orange);
@@ -49,14 +49,17 @@
     box-shadow: 5px 5px 10px lightskyblue;
 }
 .card-footer button{
-    margin-top: 5px;
-    margin-bottom: 5px;
+    margin-top: 2px;
+    margin-bottom: 2px;
 }
 #contact{
     height: 350px;
 }
 #contact h6{
     color: gray;
+}
+#contact button{
+    margin-top: 10px;
 }
 footer{
     text-align: center;
