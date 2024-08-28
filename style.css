@@ -52,3 +52,9 @@
     margin-top: 5px;
     margin-bottom: 5px;
 }
+#contact{
+    height: 350px;
+}
+#contact h6{
+    color: gray;
+}
